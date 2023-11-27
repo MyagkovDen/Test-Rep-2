@@ -1,4 +1,4 @@
 # Test-Rep-1
 Hello, Git!
-How are you doing ?
+now it's new conflict!
 conflict2
