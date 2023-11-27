@@ -2,3 +2,4 @@
 Hello, Git!
 now it's new conflict!
 conflict2
+Conflicy github
